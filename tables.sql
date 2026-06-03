@@ -13,10 +13,6 @@ INSERT INTO service(nom) VALUES ('administratif'),('mediation culturelle'),('pr√
 INSERT INTO absence (idpersonnel, datedebut,datefin,idmotif)
 VALUES (1,'2026-06-15','2026-06-22',1),(1,'2026-04-15','2026-08-22',2),(1,'2023-04-15','2026-08-22',2),(2,'2026-04-15','2026-08-22',2),(2,'2026-08-15','2026-09-22',1);
 
-Alain <alain.universite75@gmail.com>
-22:59 (il y a 33 minutes)
-√Ä moi
-
 INSERT INTO personnel (nom, prenom, tel, mail, idservice) VALUES
 ('Dupont', 'Jean', 0601020304', 'j.dupont@mediatek86.fr', 1),
 ('Martin', 'Sophie' , 0611223344', 's.martin@mediatek86.fr', 2),
